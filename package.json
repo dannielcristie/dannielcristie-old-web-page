@@ -1,9 +1,9 @@
 {
-  "name": "ana.dev",
+  "name": "dannielcristie.github.io",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:anagobarreto/ana.dev.git",
-  "author": "Anacgbarreto <anacgbarreto@gmail.com>",
+  "repository": "git@github.com:dannielcristie/dannielcristie.github.io",
+  "author": "Anacgbarreto <dannielcristie@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "pug-cli": "^1.0.0-alpha6"
