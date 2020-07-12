@@ -1,2 +1,0 @@
-# ana.dev
-New website
