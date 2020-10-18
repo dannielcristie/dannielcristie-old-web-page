@@ -1,0 +1,66 @@
+
+body{
+  font-size: 1em;
+  font-family: "Trebuchet MS", helvetica, sans-serif;
+  background: #e6e6e6;
+  align-items: center;
+  width:1300px;
+  height: auto;
+}
+
+th{
+  text-align: center;
+  width: 120px;
+  padding-left:10px;
+  padding-right: 10px;
+}
+td{
+  text-align: center;
+}
+
+#sideDownBar{
+  padding-top: : 10px;
+  margin-top: 10px;
+}
+
+
+#infoTable{
+  text-align: center;
+}
+
+#subtitle{
+  float: left ;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+.obgBict{
+  background-color:#ffd480;
+}
+
+.obgEng{
+  background-color: #a64dff;
+}
+.eleEng{
+  background-color: #0099ff;
+}
+
+.engComp{
+  background-color:  #33cc33;
+}
+
+.atvComp{
+  background-color:  #ff4d4d;
+}
+
+
+#bordLeg{
+  border: black 1px solid;
+}
+
+
+a:link, a:visited{
+  text-decoration: none;
+  color: black;
+}
